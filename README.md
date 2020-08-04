@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Sysmo Sistemas](http://sysmo.com.br/).
 
-- 🌱 I’m currently learning **React, Node** and **Flutter**.
+- 🌱 I’m currently learning **React, React Native, Node** and **Flutter**.
 
 - 📫 How to reach me **sidibecker@hotmail.com**.
 
@@ -12,9 +12,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidibecker&show_icons=true" alt="sidibecker" />
 
-<p align="center">Follow-me</p>
 <p align="center">
 <a href="https://twitter.com/sideera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sideera" height="30" width="30" /></a>
 <a href="https://instagram.com/sidibecker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sidibecker" height="30" width="30" /></a>
 <a href="https://twitch.tv/sideera" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-twitch-1.png" alt="sideera" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sidibecker" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="sideera" height="30" width="30" /></a>
+  
+  
 </p>
