@@ -1,6 +1,5 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidibecker" alt="sidibecker" /> </p>
 
 - 🔭 I’m currently working on **[Sysmo Sistemas](https://github.com/Sysmo-Sistemas)**.
 
@@ -17,6 +16,7 @@
 <a href="https://instagram.com/sidibecker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sidibecker" height="30" width="30" /></a>
 <a href="https://twitch.tv/sideera" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-twitch-1.png" alt="sideera" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/sidibecker" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="sideera" height="30" width="30" /></a>
-  
-  
 </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sidibecker" alt="sidibecker" /> </p>
