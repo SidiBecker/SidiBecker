@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidibecker" alt="sidibecker" /> </p>
 
-- 🔭 I’m currently working on [Sysmo Sistemas](http://sysmo.com.br/).
+- 🔭 I’m currently working on **[Sysmo Sistemas](https://github.com/Sysmo-Sistemas)**.
 
 - 🌱 I’m currently learning **React, React Native, Node** and **Flutter**.
 
