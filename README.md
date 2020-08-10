@@ -26,10 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidibecker&show_icons=true" alt="sidibecker" />
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidibecker&layout=compact&hide=html" alt="sidibecker" />
-</p>
-
  <p align="center">
   <a href="https://twitter.com/sideera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sideera" height="30" width="30" /></a>
   <a href="https://instagram.com/sidibecker" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sidibecker" height="30" width="30" /></a>
