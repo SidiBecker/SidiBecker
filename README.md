@@ -9,12 +9,28 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidibecker&show_icons=true" alt="sidibecker" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sidibecker&show_icons=true"
+    alt="sidibecker"
+  />
 </p>
 
- <p align="center">
-  <a href="https://twitter.com/sideera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sideera" height="30" width="30" /></a>
-  <a href="https://instagram.com/sidibecker" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sidibecker" height="30" width="30" /></a>
-  <a href="https://twitch.tv/sideera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="sideera" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/sidibecker" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sideera" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidibecker/">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    /> </a
+  >&nbsp;&nbsp;
+  <a href="https://instagram.com/sidibecker">
+    <img
+      src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+    /> </a
+  >&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Terer%C3%AAs%20Consumidos-8.649-green"
+  />
 </p>
