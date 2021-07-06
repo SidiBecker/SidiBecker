@@ -7,15 +7,6 @@
 
 - 📫 How to reach me **sidibecker@hotmail.com**.
 
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sidibecker&show_icons=true"
-    alt="sidibecker"
-  />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sidibecker/">
     <img
