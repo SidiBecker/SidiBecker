@@ -1,9 +1,7 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
 
-- 🔭 I’m currently working on **[Sysmo Sistemas](https://github.com/Sysmo-Sistemas)**.
-
-- 🌱 I’m currently learning **React, React Native, Node** and **Flutter**.
+- 🔭 Full Stack Developer on **[Sysmo Sistemas](https://github.com/Sysmo-Sistemas)**.
 
 </br>
 
