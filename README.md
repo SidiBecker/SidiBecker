@@ -26,3 +26,5 @@
 </br>
       
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidibecker&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sidi Becker's Github Stats" />
+
+  ![Snake animation](https://github.com/sidibecker/sidibecker/blob/output/github-contribution-grid-snake.svg)
