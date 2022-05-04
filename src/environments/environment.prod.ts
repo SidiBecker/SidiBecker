@@ -1,3 +1,12 @@
 export const environment = {
-  production: true
+  production: true,
+  FIREBASE_CONFIG: {
+    apiKey: '',
+    authDomain: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
+    appId: '',
+    measurementId: '',
+  },
 };
