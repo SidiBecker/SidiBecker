@@ -9,8 +9,8 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
-    "ngh:build": "ng build --prod",
-    "ngh:deploy": "ngh --branch=master --sidneibecker.com"
+    "ngh:build": "rm -rf dist/ && ng build --prod --base-href=\".\/\"",
+    "ngh:deploy": "ngh --branch=gh-page"
   },
   "private": true,
   "dependencies": {
