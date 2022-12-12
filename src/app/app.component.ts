@@ -14,7 +14,8 @@ import {
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'sidi-becker';
+
+  public avatarUrl!: string;
 
   private analytics!: Analytics;
 
@@ -25,6 +26,13 @@ export class AppComponent {
     this.analytics = analytics;
 
     setAnalyticsCollectionEnabled(analytics, true);
+
+    fetch(`https://api.github.com/users/sidibecker`)
+      .then(async obj => {
+        const githubInfo: any = await obj.json();
+        this.avatarUrl = githubInfo.avatar_url;
+        document.title = 'Sidnei Becker'
+      });
   }
 
   visit(target: string) {

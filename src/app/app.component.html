@@ -1,7 +1,7 @@
 <div class="container">
   <main>
     <div class="image">
-      <img src="assets/img/me.jpeg" alt="Sidnei Becker" />
+      <img *ngIf="avatarUrl" [src]="avatarUrl" alt="Sidnei Becker" />
     </div>
     <p>
       Olá, meu nome é <strong>Sidnei Becker</strong>. Atualmente sou
