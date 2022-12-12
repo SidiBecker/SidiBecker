@@ -6,17 +6,17 @@
 </br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sidibecker/">
+  <a href="https://www.linkedin.com/in/sidibecker/" target="_blank">
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     /> </a
   >&nbsp;&nbsp;
-  <a href="https://instagram.com/sidibecker">
+  <a href="https://instagram.com/sidibecker" target="_blank">
     <img
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
     /> </a>
   &nbsp;&nbsp;
-  <a href="https://sidneibecker.medium.com">
+  <a href="https://sidneibecker.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
    &nbsp;&nbsp;
