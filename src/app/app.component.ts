@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { initializeApp } from 'firebase/app';
-import { environment } from 'src/environments/environment.local';
+import { environment } from 'src/environments/environment.prod';
 import {
   Analytics,
   getAnalytics,
